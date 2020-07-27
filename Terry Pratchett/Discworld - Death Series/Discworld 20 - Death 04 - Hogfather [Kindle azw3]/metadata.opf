@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b3cb541-0059-4f1c-a5f7-49454f9a406e</dc:identifier>
+        <dc:title>Hogfather</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-09-07T14:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Who would want to harm Discworld's most beloved icon? Very few things are held sacred in this twisted, corrupt, heartless -- and oddly familiar -- universe, but the Hogfather is one of them. Yet here it is, Hogswatchnight, that most joyous and acquisitive of times, and the jolly old, red-suited gift-giver has vanished without a trace. And there's something shady going on involving an uncommonly psychotic member of the Assassins' Guild and certain representatives of Ankh-Morpork's rather extensive criminal element. Suddenly Discworld's entire myth system is unraveling at an alarming rate. Drastic measures must be taken, which is why Death himself is taking up the reins of the fat man's vacated sleigh . . . which, in turn, has Death's level-headed granddaughter, Susan, racing to unravel the nasty, humbuggian mess before the holiday season goes straight to hell and takes everyone along with it.</dc:description>
+        <dc:publisher>HarperTorch</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061059056</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f75a2581-58c9-453d-a96e-b4cb968b6f52</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:08:44.405000+00:00" name="calibre:timestamp"/>
+        <meta content="Hogfather" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

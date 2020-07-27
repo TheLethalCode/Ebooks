@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e036c3f5-5c6f-452e-b14c-95b1593c52bd</dc:identifier>
+        <dc:title>The Last Hero</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-09T02:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: A new Discworld story is always an event. Terry Pratchett's The Last Hero is unusually short, a 40,000-word "Discworld Fable" rather than a full novel, but is illustrated throughout in sumptuous color by Paul Kidby. The 160 pages cover the series' longest and most awesome (but still comic) journey yet, a mission to save all Discworld from a new threat. An old threat, actually. Aged warrior Cohen the Barbarian has decided to go out with a bang and take the gods with him. So, with the remnants of his geriatric Silver Horde, he's climbing to the divine retirement home Dunmanifestin with the Discworld equivalent of a nuke--a fifty-pound keg of Agatean Thunder Clay. This will, for excellent magical reasons, destroy the world. It's up to Leonard of Quirm, Discworld's da Vinci, to invent the technology that might just beat Cohen to his goal. His unlikely vessel is powered by dragons, crewed by himself and two popular regular characters, and secretly harbors a stowaway. Before long we hear the Discworld version of "Houston, we have a problem...." New characters include Evil Dark Lord Harry Dread, who started out with "just two lads and his Shed of Doom," and a god so tiresome that his worshippers are forbidden chocolate, ginger, mushrooms and garlic. Pratchett's story alone is strong and effective, with several hair-raising frissons contrasting with high comedy; Kidby's paintings make it something very special. Not to be missed. --David Langford, Amazon.co.uk</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061040962</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">7e37523a-0b3c-45a9-af24-2f0daeb2b6a7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:46.801000+00:00" name="calibre:timestamp"/>
+        <meta content="Last Hero, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

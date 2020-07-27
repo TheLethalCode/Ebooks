@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fa5a9ac-dbb5-4830-81f1-709ce993511e</dc:identifier>
+        <dc:title>The World of Poo</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;From &lt;i&gt;Snuff&lt;/i&gt;: 'Vimes' prompt arrival got a nod of approval from Sybil, who gingerly handed him a new book to read to Young Sam. Vimes looked at the cover. The title was &lt;i&gt;The World of Poo&lt;/i&gt;. When his wife was out of eyeshot he carefully leafed through it. Well, okay, you had to accept that the world had moved on and these days fairy stories were probably not going to be about twinkly little things with wings. As he turned page after page, it dawned on him that whoever had written this book, they certainly knew what would make kids like Young Sam laugh until they were nearly sick. The bit about sailing down the river almost made &lt;i&gt;him &lt;/i&gt;smile. But interspersed with the scatology was actually quite interesting stuff about septic tanks and dunnakin divers and gongfermors and how dog muck helped make the very best leather, and other things that you never thought you would need to know, but once heard somehow lodged in your mind.'&lt;/p&gt;</dc:description>
+        <dc:publisher>Transworld</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781448127221</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">d1d94796-c62e-41f9-b338-6366d1956c79</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:55.505000+00:00" name="calibre:timestamp"/>
+        <meta content="World of Poo, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

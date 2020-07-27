@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b0bd471-b749-44a1-a2f0-6c62fc8f834e</dc:identifier>
+        <dc:title>The Amazing Maurice and His Educated Rodents</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Pratchett, Terry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-02T23:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins e-books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8e0be437-d075-421e-8465-28d49817bb2b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Pratchett, Terry&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:36.535000+00:00" name="calibre:timestamp"/>
+        <meta content="Amazing Maurice and His Educated Rodents, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

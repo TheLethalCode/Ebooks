@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4de5d57-c7ab-4e0e-be75-cf4034e1ac92</dc:identifier>
+        <dc:title>Equal Rites</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-02-01T02:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Terry Pratchett's profoundly irreverent novels, consistent number one bestsellers in England, have garnered him a revered position in the halls of parody along with Mark Twain, Kurt Vonnegut, Douglas Adams, and Carl Hiaasen. In Equal Rites, a dying wizard tries to pass on his powers to an eighth son of an eighth son, who is just at that moment being born. The fact that the son is actually a daughter is discovered just a little too late...</dc:description>
+        <dc:publisher>HarperTorch</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061020698</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a300dc8a-23a2-4cb0-81c9-5939fce4ef53</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:08:31.778000+00:00" name="calibre:timestamp"/>
+        <meta content="Equal Rites" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

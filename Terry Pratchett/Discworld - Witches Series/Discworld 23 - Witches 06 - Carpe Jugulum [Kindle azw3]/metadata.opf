@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf23360e-b82a-4a40-93ea-caae2ee674b1</dc:identifier>
+        <dc:title>Carpe Jugulum</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-08T02:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: It is rare and splendid event when an author is elevated from the underground into the international literary establishment. In the case of England's best-known and best-loved modern satirist, that event has been long overdue. Terry Pratchett's profoundly irreverent Discworld novels satirize and celebrate every aspect of life, modern and ancient, sacred and profane. Consistent number-one bestsellers in England, they have garnered him a secure position in the pantheon of humor along with Mark Twain, Douglas Adams, Matt Groening, and Jonathan Swift. Even so distinguished an author as A. S. Byatt has sung his praises, calling Pratchett's intricate and delightful fictional Discworld "more complicated and satisfying than Oz." His latest satiric triumph, * Carpe Jugulum,* involves an exclusive royal snafu that leads to comic mayhem. In a fit of enlightenment democracy and ebullient goodwill, King Verence invites Uberwald's undead, the Magpyrs, into Lancre to celebrate the birth of his daughter. But once ensconced within the castle, these wine-drinking, garlic-eating, sun-loving modern vampires have no intention of leaving. * Ever.* Only an uneasy alliance between a nervous young priest and the argumentative local witches can save the country from being taken over by people with a cultivated bloodlust and bad taste in silk waistcoats. For them, there's only one way to fight. Go for the throat, or as the * vampyres* themselves say... Carpe Jugulum</dc:description>
+        <dc:publisher>Corgi</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780613277617</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous Stories</dc:subject>
+        <dc:subject>Vampires</dc:subject>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fantasy Fiction</dc:subject>
+        <dc:subject>Fiction - Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Science Fiction - General</dc:subject>
+        <dc:subject>Fantasy - Series</dc:subject>
+        <dc:subject>Witches</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Discworld (Imaginary place)</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-20T10:45:41.938000+00:00" name="calibre:timestamp"/>
+        <meta content="Carpe Jugulum" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

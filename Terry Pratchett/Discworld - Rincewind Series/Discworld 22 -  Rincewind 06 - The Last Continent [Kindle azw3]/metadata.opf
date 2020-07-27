@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">340</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17393722-4fe1-4281-bb20-819e5457a404</dc:identifier>
+        <dc:title>The Last Continent</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-09T02:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Terry Pratchett's 22nd Discworld novel, The Last Continent, is a lighthearted tour of the fantasy land of Fourecks, a very Australian sort of place, with brief courses in theoretical physics and evolution thrown in for good measure. Pratchett returns to his first Discworld protagonist, the inept and cowardly wizard Rincewind, who habitually runs into trouble as fast as he flees. Rincewind's arrival in Fourecks has distorted the space-time continuum, and he has to sort it out before the whole place dries up and blows away. The situation is complicated because the actual problem is located 30,000 years in the past--just where the Faculty of the Unseen University currently are. Pretty frightening, given "the true wizard's instinct to amble aimlessly into dangerous places," and then "stop and argue ... about exactly what kind of danger it [is]." If you're baffled by all this, no worries, mate. You needn't have read Pratchett before--not even the five previous Discworld novels starring Rincewind (The Colour of Magic, The Light Fantastic, Sourcery, Eric, and Interesting Times)--to enjoy this latest romp. Nor to have visited Australia. When you finish, however, you'll likely want to rush out and do both. --Nona Vero</dc:description>
+        <dc:publisher>Doubleday</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385409896</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">8f361340-4203-4a70-9ee6-dd4096c13d29</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:43.801000+00:00" name="calibre:timestamp"/>
+        <meta content="Last Continent, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

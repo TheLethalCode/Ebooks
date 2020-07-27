@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">327</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de3ecd91-30bb-42ee-b234-b6dbe8fa1283</dc:identifier>
+        <dc:title>Nanny Ogg's Cookbook</dc:title>
+        <dc:creator opf:file-as="Terry Pratchett, Stephen Briggs, Tina Hannan" opf:role="aut">Terry Pratchett, Stephen Briggs, Tina Hannan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-15T22:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">08c7b0dd-4bcf-4dc5-8ad1-1545e54b5dd8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Terry Pratchett, Stephen Briggs, Tina Hannan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:09.501000+00:00" name="calibre:timestamp"/>
+        <meta content="Nanny Ogg's Cookbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

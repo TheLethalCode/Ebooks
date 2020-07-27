@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3de04e1d-d400-493b-a5a8-4a90fc5f5349</dc:identifier>
+        <dc:title>Maskerade</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-30T13:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: The Ghost in the bone-white mask who haunts the Ankh-Morpork Opera House was always considered a benign presence -- some would even say lucky -- until he started killing people. The sudden rash of bizarre backstage deaths now threatens to mar the operatic debut of country girl Perdita X. (nee Agnes) Nitt, she of the ample body and ampler voice. Perdita's expected to hide in the chorus and sing arias out loud while a more petitely presentable soprano mouths the notes. But at least it's an escape from scheming Nanny Ogg and old Granny Weatherwax back home, who want her to join their witchy ranks. Once Granny sets her mind on something, however, it's difficult -- and often hazardous -- to dissuade her. And no opera-prowling phantom fiend is going to keep a pair of determined hags down on the farm after they've seen Ankh-Morpork.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061056918</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">16b01ff3-0a90-4f41-b6d7-696390fa7fed</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:08:58.437000+00:00" name="calibre:timestamp"/>
+        <meta content="Maskerade" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

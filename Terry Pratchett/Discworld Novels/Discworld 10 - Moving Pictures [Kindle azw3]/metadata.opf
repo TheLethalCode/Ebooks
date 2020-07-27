@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5be70b17-d257-4f19-aad7-2281067aea63</dc:identifier>
+        <dc:title>Moving Pictures</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-02-04T02:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Discworld's pesky alchemists are up to their old tricks again. This time, they've discovered how to get gold from silver -- the silver screen that is. Hearing the siren call of Holy Wood is one Victor Tugelbend, a would-be wizard turned extra. He can't sing, he can't dance, but he can handle a sword (sort of), and now he wants to be a star. So does Theda Withel, an ambitious ingénue from a little town (where else?) you've probably never heard of.But the click click of moving pictures isn't just stirring up dreams inside Discworld. Holy Wood's magic is drifting out into the boundaries of the universes, where raw realities, the could-have-beens, the might-bes, the never-weres, the wild ideas are beginning to ferment into a really stinky brew. It's up to Victor and Gaspode the Wonder Dog (a star if ever one was born!) to rein in the chaos and bring order back to a starstruck Discworld. And they're definitely not ready for their close-up!</dc:description>
+        <dc:publisher>HarperTorch,</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061020636</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">11f604b3-ea86-4822-a54f-55c7333229c4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:06.016000+00:00" name="calibre:timestamp"/>
+        <meta content="Moving Pictures" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

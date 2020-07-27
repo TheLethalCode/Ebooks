@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e72885a-9611-463d-b3aa-a1629cebadeb</dc:identifier>
+        <dc:title>The Annotated Pratchett File, v9.0</dc:title>
+        <dc:creator opf:file-as="Kew, Leo Breebaart; Mike" opf:role="aut">Leo Breebaart; Mike Kew</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-15T22:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">b17207bc-5f09-4c7e-b16c-518b42c5204e</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Terry Pratchett</dc:subject>
+        <dc:subject>v9.0</dc:subject>
+        <dc:subject>References</dc:subject>
+        <dc:subject>Discworld</dc:subject>
+        <dc:subject>Annotations</dc:subject>
+        <dc:subject>The Annotated Pratchett File</dc:subject>
+        <meta content="{&quot;Leo Breebaart; Mike Kew&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:38.519000+00:00" name="calibre:timestamp"/>
+        <meta content="Annotated Pratchett File, v9.0, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

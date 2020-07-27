@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0074e22-81e4-4568-866b-f26b88b7848d</dc:identifier>
+        <dc:title>The Science of Discworld 1 - University of Warwick</dc:title>
+        <dc:creator opf:file-as="Terry Pratchett, Ian Stewart, Jack Cohen" opf:role="aut">Terry Pratchett, Ian Stewart, Jack Cohen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-12-31T23:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">0091886570</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">fc0e6d55-82b8-4f85-9621-2f6684eb5da2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Terry Pratchett, Ian Stewart, Jack Cohen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:23.799000+00:00" name="calibre:timestamp"/>
+        <meta content="Science of Discworld 1 - University of Warwick, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

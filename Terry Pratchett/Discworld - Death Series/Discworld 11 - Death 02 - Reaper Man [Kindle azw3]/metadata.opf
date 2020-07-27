@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">331</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a72ee3a-fd87-42ba-b197-77f29abe4d80</dc:identifier>
+        <dc:title>Reaper Man</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-03T14:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: They say there are only two things you can count on ...But that was before DEATH started pondering the existential. Of course, the last thing anyone needs is a squeamish Grim Reaper and soon his Discworld bosses have sent him off with best wishes and a well-earned gold watch. Now DEATH is having the time of his life, finding greener pastures where he can put his scythe to a whole new use.But like every cutback in an important public service, DEATH's demise soon leads to chaos and unrest -- literally, for those whose time was supposed to be up, like Windle Poons. The oldest geezer in the entire faculty of Unseen University -- home of magic, wizardry, and big dinners -- Windle was looking forward to a wonderful afterlife, not this boring been-there-done-that routine. To get the fresh start he deserves, Windle and the rest of Ankh-Morpork's undead and underemployed set off to find DEATH and save the world for the living (and everybody else, of course).</dc:description>
+        <dc:publisher>New Amer Library (Mm)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451451682</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">82d0e14b-af1e-4ae7-a3d9-364605bd2b07</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:21.564000+00:00" name="calibre:timestamp"/>
+        <meta content="Reaper Man" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

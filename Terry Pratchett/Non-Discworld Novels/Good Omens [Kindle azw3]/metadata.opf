@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">421e0c65-7438-4939-84e6-11bc24d6a456</dc:identifier>
+        <dc:title>Good Omens</dc:title>
+        <dc:creator opf:file-as="Terry Pratchett, Neil Gailman" opf:role="aut">Terry Pratchett, Neil Gailman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-15T22:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">057504800X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Terry Pratchett, Neil Gailman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-10-25T13:31:37.930000+00:00" name="calibre:timestamp"/>
+        <meta content="Good Omens" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

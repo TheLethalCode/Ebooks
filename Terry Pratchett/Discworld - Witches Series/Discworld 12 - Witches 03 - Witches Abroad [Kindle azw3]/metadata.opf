@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db616e77-db97-4a22-bfd8-08a1070f7ca7</dc:identifier>
+        <dc:title>Witches Abroad</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-08T02:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Be careful what you wish for...Once upon a time there was a fairy godmother named Desiderata who had a good heart, a wise head, and poor planning skills--which unforunately left the Princess Emberella in the care of her other (not quite so good and wise) godmother when DEATH came for Desiderata. So now it's up to Magrat Garlick, Granny Weatherwax, and Nanny Ogg to hop on broomsticks and make for far-distant Genua to ensure the servant girl doesn't marry the Prince.But the road to Genua is bumpy, and along the way the trio of witches encounters the occasional vampire, werewolf, and falling house (well this is a fairy tale, after all). The trouble really begins once these reluctant foster-godmothers arrive in Genua and must outwit their power-hungry counterpart who'll stop at nothing to achieve a proper "happy ending"--even if it means destroying a kingdom.</dc:description>
+        <dc:publisher>Corgi</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451452252</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Body</dc:subject>
+        <dc:subject>Fantasy - General</dc:subject>
+        <dc:subject>Humorous Stories</dc:subject>
+        <dc:subject>Discworld (Imaginary place)</dc:subject>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <dc:subject>Fantasy Fiction</dc:subject>
+        <dc:subject>Fiction - Fantasy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Witchcraft &amp; Wicca</dc:subject>
+        <dc:subject>Witches</dc:subject>
+        <dc:subject>Mind &amp; Spirit</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Occult &amp; Supernatural</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-20T11:25:09.264000+00:00" name="calibre:timestamp"/>
+        <meta content="Witches Abroad" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

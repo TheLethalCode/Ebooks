@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">96</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e98fb7a6-e0fb-48dd-8b1e-9ab5c4cf7c0e</dc:identifier>
+        <dc:title>Lords and Ladies</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-08-22T03:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Although they may feature witches and wizards, vampires and dwarves, along with the occasional odd human, Terry Pratchett's bestselling Discworld novels are grounded firmly in the modern world. Taking humorous aim at all our foibles, each novel reveals our true character and nature.It's a dreamy midsummer's night in the Kingdom of Lancre. But music and romance aren't the only things filling the air. Magic and mischief are afoot, threatening to spoil the royal wedding of King Verence and his favorite witch, Magrat Garlick. Invaded by some Fairie Trash, soon it won't be only champagne that's flowing through the streets ...</dc:description>
+        <dc:publisher>HarperPrism</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061056925</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy - General</dc:subject>
+        <dc:subject>Discworld (Imaginary place)</dc:subject>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Fantasy Fiction</dc:subject>
+        <dc:subject>Fiction - Fantasy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Wizards</dc:subject>
+        <dc:subject>English Science Fiction And Fantasy</dc:subject>
+        <dc:subject>Fantastic Fiction</dc:subject>
+        <dc:subject>Humorous Fiction</dc:subject>
+        <dc:subject>Fantasy - Series</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-20T10:59:00.172000+00:00" name="calibre:timestamp"/>
+        <meta content="Lords and Ladies" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

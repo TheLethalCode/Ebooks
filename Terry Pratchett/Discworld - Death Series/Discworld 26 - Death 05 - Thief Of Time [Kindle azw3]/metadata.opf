@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcd31f4a-178a-4a7e-9cad-e91d33e964a5</dc:identifier>
+        <dc:title>Thief of Time</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-04-29T14:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Everybody wants more time, which is why on Discworld only the experts can manage it -- the venerable Monks of History who store it and pump it from where it's wasted, like underwater (how much time does a codfish really need?), to places like cities, where busy denizens lament, "Oh where does the time go?"While everyone always talks about slowing down, one young horologist is about to do the unthinkable. He's going to stop. Well, stop time that is, by building the world's first truly accurate clock. Which means esteemed History Monk Lu-Tze and his apprentice Lobsang Ludd have to put on some speed to stop the timepiece before it starts. For if the Perfect Clock starts ticking, Time -- as we know it -- will end. And then the trouble will really begin...</dc:description>
+        <dc:publisher>HarperTorch</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061031328</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">18c66f77-ee57-482f-adb2-b0e24d69f9c7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:58.880000+00:00" name="calibre:timestamp"/>
+        <meta content="Thief of Time" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

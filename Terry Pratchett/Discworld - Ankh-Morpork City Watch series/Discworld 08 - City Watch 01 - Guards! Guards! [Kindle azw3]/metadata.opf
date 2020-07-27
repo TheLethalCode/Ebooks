@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ff99d67-a720-4a68-9838-1c34ac510c61</dc:identifier>
+        <dc:title>Guards! Guards!</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-07-30T03:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Here there be dragons . . . and the denizens of Ankh-Morpork wish one huge firebreather would return from whence it came. Long believed extinct, a superb specimen of draco nobilis ("noble dragon" for those who don't understand italics) has appeared in Discworld's greatest city. Not only does this unwelcome visitor have a nasty habit of charbroiling everything in its path, in rather short order it is crowned King (it is a noble dragon, after all . . .).Meanwhile, back at Unseen University, an ancient and long-forgotten volume -- The Summoning of Dragons -- is missing from the Library's shelves. To the rescue come Captain Vimes, Constable Carrot, and the rest of the Night Watch who, along with other brave citizens, risk everything, including a good roasting, to dethrone the flying monarch and restore order to Ankh-Morpork (before it's burned to a crisp). A rare tale, well done as only Terry Pratchett can.</dc:description>
+        <dc:publisher>HarperTorch</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061020643</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">489eebb3-3574-4ae4-bab9-82b07875cbc9</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:08:41.858000+00:00" name="calibre:timestamp"/>
+        <meta content="Guards! Guards!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

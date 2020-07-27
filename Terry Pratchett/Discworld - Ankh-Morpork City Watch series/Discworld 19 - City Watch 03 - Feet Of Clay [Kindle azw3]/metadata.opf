@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3a86141-7501-4976-8baa-bae10f141da4</dc:identifier>
+        <dc:title>Feet of Clay</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-30T13:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: In Feet of Clay, Terry Pratchett continues the fantasy adventures on Discworld--where anything goes. Anything but murder, that is. Commander Vimes of the Watch must investigate a puzzling series of deaths, with help from various trolls and dwarfs. Pratchett's humor and excellent writing skills draw the reader effortlessly into his zany world. Feet of Clay is 19th in the series. --Blaise Selby</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780552153256</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">13fba2ab-a2cc-4d81-9461-4d473bda45ec</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:08:36.888000+00:00" name="calibre:timestamp"/>
+        <meta content="Feet of Clay" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc290c6e-ecc2-40e1-8b1d-ef8e8e3560d5</dc:identifier>
+        <dc:title>Interesting Times</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-03-03T02:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: "May you live in interesting times" is the worst thing one can wish on a citizen of Discworld -- especially on the distinctly unmagical sorcerer Rincewind, who has had far too much perilous excitement in his life. But when a request for a "Great Wizzard" arrives in Ankh-Morpork via carrier albatross from the faraway Counterweight Continent, it's he who's sent as emissary. Chaos threatens to follow the impending demise of the Agatean Empire's current ruler. And, for some incomprehensible reason, someone believes Rincewind will have a mythic role in the war and wholesale bloodletting that will surely ensue. (Carnage is pretty much a given, since Cohen the Barbarian and his extremely elderly Silver Horde are busily formulating their own plan for looting, pillaging, and, er, looking wistfully at girls.) However, Rincewind firmly believes there are too many heroes already in the world, yet only one Rincewind. And he owes it to the world to keep that one alive for as long as possible.</dc:description>
+        <dc:publisher>HarperPrism</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061056901</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">1b18d0aa-3366-46e5-ab2a-5961beaa9d5e</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:08:49.624000+00:00" name="calibre:timestamp"/>
+        <meta content="Interesting Times" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

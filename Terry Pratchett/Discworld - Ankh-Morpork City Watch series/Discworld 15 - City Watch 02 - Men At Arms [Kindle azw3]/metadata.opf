@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89965ec1-d97e-40fa-a216-af35278ec9a1</dc:identifier>
+        <dc:title>Men at Arms</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-31T02:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: A Young Dwarf's Dream Corporal Carrot has been promoted!He's now in charge of the new recruits guarding Ankh-Morpork, Discworld's greatest city, from Barbarian Tribes, Miscellaneous Marauders, unlicensed Thieves, and such. It's a big job, particularly for an adopted dwarf. But an even bigger job awaits. An ancient document has just revealed that Ankh-Morpork, ruled for decades by Disorganized crime, has a secret sovereign! And his name is Carrott... And so begins the most awesome epic encounter of all time, or at least all afternoon, in which the fate of a city--indeed of the universe itself!--depends on a young man's courage, an ancient sword's magic, and a three-legged poodle's bladder.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061092190</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">3bfb0c4e-8a01-40fe-82bb-2efd06ae5e44</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:00.844000+00:00" name="calibre:timestamp"/>
+        <meta content="Men at Arms" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

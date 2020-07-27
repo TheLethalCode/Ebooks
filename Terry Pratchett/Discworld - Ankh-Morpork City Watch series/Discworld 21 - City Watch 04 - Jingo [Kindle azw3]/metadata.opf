@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfcb95fd-bbd8-40e1-85e8-6458aeddd620</dc:identifier>
+        <dc:title>Jingo</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-11T13:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Something new has come up between the Discworld's ancient rival cites of Ankh-Morpork and Al-Khali. Literally It's up island, rising out of Discworld's sea, uninhabited and claimed by both cities. Under International Law this situation clearly falls under the ancient doctrine of Acquiris Quodcumque Rapis ("You Get What You Grab"). And everyone wants to grab. Besides, the Al-Khalians may have invented algebra, astronomy and alcohol, but hey don't have a word for lawyer, and how can you talk to people like that? Since there's no basis for negotiation, it's down to the long-suffering Commander Vimes of the City Watch to deal with a crime as awful that there's no law against it. It's called war. Ankh-Morpork has been at peace for a century, and so has Al-Khali. But now there are people on both sides who think it's time to give was a chance, and will happily help it on its way with a few murders... Modern war needs modern weapons. Unfortunately, Ankh-Morpork got rich making and selling them to Al-Khali. But it's just possible that salvation lies in the hands of the great inventive genius Leonard of Quirm, whose sketchbooks are filled with devices for killing people, flying through the air, and weighing cheese. Maybe it's in his boat tat travels under water--Leonard calls it a "Going Under-The-Water-Safely Device", or "metal sinking fish thing" for short. (Just because he's an inventor doesn't mean he's good at naming stuff.) But this is carrying something else--a device that so powerful that it can finish any war. But don't be alarmed. It's fantasy. It all happens on Discworld, where greed and ignorance influence human behavior, politicians pursue was for selfish ends, and perfectly ordinary people occasionally act like raving idiots. A world, in short, totally unlike our own.</dc:description>
+        <dc:publisher>San Val</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780613572316</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">f45dd82c-2b2f-4099-91f2-54671e93fc81</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:08:52.202000+00:00" name="calibre:timestamp"/>
+        <meta content="Jingo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

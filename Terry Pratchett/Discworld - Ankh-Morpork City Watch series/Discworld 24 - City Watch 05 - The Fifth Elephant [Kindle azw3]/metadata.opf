@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5619f26b-44e7-48e0-8e29-5b038bf8cdb3</dc:identifier>
+        <dc:title>The Fifth Elephant</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-02T03:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Everyone knows that the world is flat, and supported on the backs of four elephants. But weren't there supposed to be five? Indeed there were. So where is it?...When duty calls. Commander Vimes of the Ankh-Morpork constabulary answers. Even when he doesn't want to. He's been "invited" to attend a royal function as both detective and diplomat. The one role he relishes; the other requires, well, ruby tights. Of course where cops (even those clad in tights) go, alas, crime follows. An attempted assassination and a theft soon lead to a desperate chase from the low halls of Discworld royalty to the legendary fat mines of Uberwald, where lard is found in underground seams along with tusks and teeth and other precious ivory artifacts. It's up to the dauntless Vimes -- bothered as usual by a familiar cast of Discworld inhabitants (you know, trolls, dwarfs, werewolves, vampires and such) -- to solve the puzzle of the missing pachyderm. Which of course he does. After all, solving mysteries is his job.</dc:description>
+        <dc:publisher>HarperTorch</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061020407</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy - General</dc:subject>
+        <dc:subject>Humorous Stories</dc:subject>
+        <dc:subject>Discworld (Imaginary place)</dc:subject>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Fantasy Fiction</dc:subject>
+        <dc:subject>Samuel (Fictitious character)</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Fiction - Fantasy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Fantasy - Series</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Vimes</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-20T10:55:20.026000+00:00" name="calibre:timestamp"/>
+        <meta content="Fifth Elephant, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

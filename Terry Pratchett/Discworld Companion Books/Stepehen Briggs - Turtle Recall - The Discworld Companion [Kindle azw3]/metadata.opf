@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ec23448-3c4b-468a-ab55-37e9b39f425b</dc:identifier>
+        <dc:title>Turtle Recall: The Discworld Companion ... So Far</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry &amp; Briggs, Stephen" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:creator opf:file-as="Pratchett, Terry &amp; Briggs, Stephen" opf:role="aut">Stephen Briggs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-08T06:00:00+00:00</dc:date>
+        <dc:publisher>Orion</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780575091214</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">858d0c6f-7a3f-4112-af62-5f8911fbc722</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;, &quot;Stephen Briggs&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:10:03.381000+00:00" name="calibre:timestamp"/>
+        <meta content="Turtle Recall: The Discworld Companion ... So Far" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

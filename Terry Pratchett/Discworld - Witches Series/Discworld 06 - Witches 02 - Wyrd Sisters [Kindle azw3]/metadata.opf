@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70ed3112-fbc0-4d4a-81e7-c6a06042581c</dc:identifier>
+        <dc:title>Wyrd Sisters</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-08T02:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY: Terry's Pratchett's profoundly irreverent novels are consistent number one bestsellers in England, where they have catapulted him into the highest echelons of parody next to Mark Twain, Kurt Vonnegut, Douglas Adams, and Carl Hiaasen.Meet Granny Weatherwax, the most highly regarded non-leader a coven of non-social witches could ever have. Generally, these loners don't get involved in anything, mush less royal intrigue. but then there are those times they can't help it. As Granny Weatherwax is about to discover, though, it's a lot harder to stir up trouble in the castle than some theatrical types would have you think. Even when you've got a few unexpected spells up your sleeve.&lt;/p&gt;</dc:description>
+        <dc:publisher>Corgi</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781435274709</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">74bda725-ac28-4279-a3b5-793a8bd10d19</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:31:07.045000+00:00" name="calibre:timestamp"/>
+        <meta content="Wyrd Sisters" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1c6b9ca-53a3-4112-ba5d-3000aea0bcc0</dc:identifier>
+        <dc:title>Monstrous Regiment</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-10T14:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: War has come to Discworld ... again. And, to no one's great surprise, the conflict centers around the small, arrogantly fundamentalist duchy of Borogravia, which has long prided itself on its unrelenting aggressiveness. A year ago, Polly Perks's brother marched off to battle, and Polly's willing to resort to drastic measures to find him. So she cuts off her hair, dons masculine garb, and -- aided by a well-placed pair of socks -- sets out to join this man's army. Since a nation in such dire need of cannon fodder can't afford to be too picky, Polly is eagerly welcomed into the fighting fold—along with a vampire, a troll, an Igor, a religious fanatic, and two uncommonly close "friends." It would appear that Polly "Ozzer" Perks isn't the only grunt with a secret. But duty calls, the battlefield beckons. And now is the time for all good ... er ... "men" to come to the aid of their country.</dc:description>
+        <dc:publisher>HarperTorch</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060013165</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>War Stories</dc:subject>
+        <dc:subject>Discworld (Imaginary place)</dc:subject>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Fantasy Fiction</dc:subject>
+        <dc:subject>Fantasy - General</dc:subject>
+        <dc:subject>Fiction - Fantasy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fantasy - Series</dc:subject>
+        <dc:subject>War &amp; Military</dc:subject>
+        <dc:subject>Humorous Fiction</dc:subject>
+        <dc:subject>Women Soldiers</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-20T11:05:04.739000+00:00" name="calibre:timestamp"/>
+        <meta content="Monstrous Regiment" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

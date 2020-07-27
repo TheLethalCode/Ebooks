@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">330</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3c4a5d4-8daf-48ff-b277-a8fab56dca44</dc:identifier>
+        <dc:title>Raising Steam: (Discworld novel 40) (Discworld Novels)</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Pratchett, Terry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-07T06:00:00+00:00</dc:date>
+        <dc:publisher>Transworld</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781448171194</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">cbfe2d73-620a-49f2-9630-1c84659988dc</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Pratchett, Terry&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:17.876000+00:00" name="calibre:timestamp"/>
+        <meta content="Raising Steam: (Discworld novel 40) (Discworld Novels)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

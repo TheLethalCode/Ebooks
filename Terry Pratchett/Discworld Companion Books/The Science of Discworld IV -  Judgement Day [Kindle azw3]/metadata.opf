@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8accc5c7-9ce4-41ac-971e-412c11a6d4d4</dc:identifier>
+        <dc:title>The Science of Discworld IV: Judgement Day</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-15T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;A brilliant new Discworld story from Terry Pratchett. &lt;br&gt;&lt;/p&gt;&lt;p&gt;The fourth book in the Science of Discworld series, and this time around dealing with THE REALLY BIG QUESTIONS, Terry Pratchett's brilliant new Discworld story &lt;em&gt;Judgement Day&lt;/em&gt; is annotated with very big footnotes (the interleaving chapters) by mathematician Ian Stewart and biologist Jack Cohen, to bring you a mind-mangling combination of fiction, cutting-edge science and philosophy.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Marjorie Dawe is a librarian, and takes her job -- and indeed the truth of words -- very seriously. She doesn't know it, but her world and ours -- Roundworld -- is in big trouble. On Discworld, a colossal row is brewing&lt;em&gt;.&lt;/em&gt; The Wizards of the Unseen University feel responsible for Roundworld (as one would for a pet gerbil). After all, they brought it into existence by bungling an experiment in Quantum ThaumoDynamics. But legal action is being brought against them by Omnians, who say that the Wizards' god-like actions make a mockery of their noble religion. As the finest legal brains in Discworld (a zombie and a priest) gird their loins to do battle -- and when the Great Big Thing in the High Energy Magic Laboratory is switched on -- Marjorie Dawe finds herself thrown across the multiverse and right in the middle of the whole explosive affair.&lt;br&gt;&lt;/p&gt;&lt;p&gt;As God, the Universe and, frankly, Everything Else is investigated by the trio, you can expect world-bearing elephants, quantum gravity in the Escher-verse, evolutionary design, eternal inflation, dark matter, disbelief systems -- and an in-depth study of how to invent a better mousetrap.&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;SIR TERRY PRATCHETT is the acclaimed creator of the global bestselling Discworld series, the first of which, &lt;em&gt;The Colour of Magic&lt;/em&gt;, was published in 1983. In all, he is the author of fifty bestselling books. His novels have been widely adapted for stage and screen, and he is the winner of multiple prizes, including the Carnegie Medal, as well as being awarded a knighthood for services to literature. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ebury Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780091949792</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">2742069e-2665-4a7b-bd6d-d8012c5aea39</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:08:55.124000+00:00" name="calibre:timestamp"/>
+        <meta content="Science of Discworld IV: Judgement Day, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

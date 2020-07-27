@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b2c2516-d8d3-4d0e-8db4-a7dccca86127</dc:identifier>
+        <dc:title>The Folklore of Discworld</dc:title>
+        <dc:creator opf:file-as="Simpson, Terry Pratchett; Jacqueline" opf:role="aut">Terry Pratchett; Jacqueline Simpson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-06T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“One of the most interesting and critically underrated novelists we have ... &lt;strong&gt;The Folklore of Discworld&lt;/strong&gt; — co-authored with the eminent folklorist Jacqueline Simpson — emphasizes his irreverence and drollery.”&lt;br /&gt;— &lt;em&gt;The Times&lt;/em&gt; &lt;/p&gt;&lt;p&gt;“Pratchett is, like Mark Twain or Jonathan Swift, not just a great writer but also an original thinker ... funny, exciting, lighthearted and, like all the best comedy, very serious.”&lt;br /&gt;— &lt;em&gt;Guardian&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Terry Pratchett joins up with a leading folklorist to reveal the legends, myths and customs of Discworld, together with helpful hints from Planet Earth. &lt;/p&gt;&lt;p&gt;Most of us grew up having always known when to touch wood or cross our fingers, and what happens when a princess kisses a frog or a boy pulls a sword from a stone, yet sadly some of these things are beginning to be forgotten. Legends, myths, and fairy tales: our world is made up of the stories we told ourselves about where we came from and how we got here. It is the same on Discworld, except that beings, which on Earth are creatures of the imagination — like vampires, trolls, witches and, possibly, gods — are real, alive and, in some cases kicking, on the Disc. &lt;/p&gt;&lt;p&gt;In &lt;strong&gt;The Folklore of Discworld&lt;/strong&gt;, Terry Pratchett teams up with leading British folklorist Jacqueline Simpson to take an irreverent yet illuminating look at the living myths and folklore that are reflected, celebrated and affectionately libelled in the uniquely imaginative universe of Discworld. &lt;/p&gt;</dc:description>
+        <dc:publisher>Doubleday</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385611008</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Discworld (Imaginary place)</dc:subject>
+        <dc:subject>Folklore in literature</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fairy Tales</dc:subject>
+        <dc:subject>Legends &amp; Mythology</dc:subject>
+        <dc:subject>Folk Tales</dc:subject>
+        <meta content="{&quot;Terry Pratchett; Jacqueline Simpson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-20T10:57:19.146000+00:00" name="calibre:timestamp"/>
+        <meta content="Folklore of Discworld, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">319</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5191f974-1a25-47a5-be5e-db974843f217</dc:identifier>
+        <dc:title>I Shall Wear Midnight</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Pratchett, Terry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-01T23:00:00+00:00</dc:date>
+        <dc:publisher>RHCB Digital</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781409096306</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">7c3a7f80-a966-440b-9144-2e5ca2255ee1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Pratchett, Terry&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:08:47.171000+00:00" name="calibre:timestamp"/>
+        <meta content="I Shall Wear Midnight" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

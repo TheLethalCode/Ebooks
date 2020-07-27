@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83f70563-b701-4b75-a1d0-afdfdfb1363a</dc:identifier>
+        <dc:title>Snuff</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-12T13:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“In short, this is as busy and as daft as any other Discworld yarn, which means it is the quintessence of daft. Nobody writes fantasy funnier than Pratchett.” (Booklist )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“This account of Unseen University’s entry into the world of soccer (or, as they occasionally call it, “foot-the-ball”) pushes past the usual conventions of satire to offer equal parts absurdist philosophy and heartwarming romance....A witty addition to the long-running fantasy series” (Kirkus Reviews )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“...[SNUFF is a] lively outing, complete with sly shout-outs to Jane Austen and gritty police procedurals.” (Publishers Weekly (starred review) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Like Pratchett, [narrator Stephen Briggs] loves the comic rhythm, sound, and very taste of words-just for their own sake. So order up a tuna-spaghetti-jam sandwich (with sprinkles) and be prepared for a wonderful time.” (AudioFile Magazine )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“A triumphant effort.” (The Independent on Sunday )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Thirty-seven books in and ... Discworld is still going strong...and doing so with undimmed, triumphant exuberance. ” (The Guardian )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Funny, of course, but with plenty of hard edges; and, along with the excellent lessons in practical police work, genuine sympathy for the ordinary copper’s lot...A treat no fan of Discworld—and there are boatloads of them—will want to miss.” (Kirkus Reviews on SNUFF )&lt;br&gt;&lt;/p&gt;&lt;p&gt;“Series followers will delight in this latest entry ... Pratchett’s fun, irreverent-seeming story line masks a larger discussion of social inequalities and the courage it takes to stand up for the voiceless.” (Library Journal ) &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;It is a truth universally acknowledged that a policeman taking a holiday would barely have had time to open his suitcase before he finds his first corpse.And Commander Sam Vimes of the Ankh-Morpork City Watch is on holiday in the pleasant and innocent countryside, but not for him a mere body in the wardrobe. There are many, many bodies and an ancient crime more terrible than murder.He is out of his jurisdiction, out of his depth, out of bacon sandwiches, and occasionally snookered and out of his mind, but never out of guile. Where there is a crime there must be a finding, there must be a chase and there must be a punishment. They say that in the end all sins are forgiven.But not quite all... &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">038561926X</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ba84d02f-c893-4455-95c4-a8219d8d8e6b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:29.299000+00:00" name="calibre:timestamp"/>
+        <meta content="Snuff" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

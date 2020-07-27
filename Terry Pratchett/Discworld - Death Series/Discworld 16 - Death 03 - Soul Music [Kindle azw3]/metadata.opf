@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">335</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">166e4e2c-adde-44a1-8501-b523bc9cda69</dc:identifier>
+        <dc:title>Soul Music</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-25T14:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;When her dear old Granddad -- the Grim Reaperhimself -- goes missing, Susan takes over the family business. The progeny of Death's adopted daughter and his apprentice, she shows real talent for the trade. That is until a little string in her heart goes "twang."&lt;p&gt;With a head full of dreams and a pocketful of lint,Imp the Bard lands in Ankh-Morpork, yearning to become a rock star. Determined to devote his life to music, the unlucky fellow soon finds that all his dreams are coming true. Well almost.&lt;p&gt;In this finger-snapping, toe-tapping tale of youth,Death, and rocks that roll, Terry Pratchett once again demonstrates the wit and genius that have propelled him to the highest echelons of parody next to Mark Twain, Kurt Vonnegut, Douglas Adams, and Carl Hiaasen.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061805752</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">b34fa89c-18c4-4c72-96d5-cb7100857a0d</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:31.815000+00:00" name="calibre:timestamp"/>
+        <meta content="Soul Music" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

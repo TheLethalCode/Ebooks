@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">343</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6647eff0-f644-44ae-b5d1-cbe77cb66239</dc:identifier>
+        <dc:title>The Truth</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-09-03T03:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: The denizens of Ankh-Morpork fancy they've seen just about everything. But then comes the Ankh-Morpork Times, struggling scribe William de Worde's upper-crust, newsletter turned Discworld's first paper of record.An ethical joulnalist, de Worde has a proclivity for investigating stories -- a nasty habit that soon creates powerful enemies eager to stop his presses. And what better way than to start the Inquirer, a titillating (well, what else would it be?) tabloid that conveniently interchanges what's real for what sells.But de Worde's got an inside line on the hot story concerning Ankh-Morpork's leading patrician Lord Vetinari. The facts say Vetinari is guilty. But as William de Worde learns, facts don't always tell the whole story. There's that pesky little thing called the truth ...</dc:description>
+        <dc:publisher>HarperTorch</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780380818198</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">7c14116c-6013-4dea-af59-f78dbd62c280</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy - General</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Journalists</dc:subject>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Fantasy Fiction</dc:subject>
+        <dc:subject>Fiction - Fantasy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Newspaper publishing</dc:subject>
+        <dc:subject>Investigative reporting</dc:subject>
+        <dc:subject>Fantasy - Series</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Discworld (Imaginary place)</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:51.723000+00:00" name="calibre:timestamp"/>
+        <meta content="Truth, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

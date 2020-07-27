@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cbc71449-8032-4d3d-82ff-5011ad051a8d</dc:identifier>
+        <dc:title>Night Watch</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-14T14:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: This morning, Commander Vimes of the City Watch had it all. He was a Duke. He was rich.He was respected. He had a silver cigar case. He was about to become a father. This morning he thought longingly about the good old days. Tonight, he's in them. Flung back in time by a mysterious accident, Sam Vimes has to start all over again. He must get a new name and a job, and there's only one job he's good at: cop in the Watch. He must track down a brutal murderer. He must find his younger self and teach him everything he knows. He must whip the cowardly, despised Night Watch into a crack fighting force -- fast. Because Sam Vimes knows what's going to happen. He *remembers* it. He was there. It's part of history. And you can't change history . . . But Sam is going to. He has no choice. Otherwise, a bloody revolution will start, and good men will die. Sam saw their names on old headstones just this morning -- but tonight they're young men who think they have a future. And rather than let them die, Sam will do anything -- turn traitor, burn buildings, take over a revolt, anything -- to snatch them from the jaws of history. He will do it even if victory will mean giving up the only future he knows. For if he succeeds, he's got no wife, no child, no riches, no fame -- all that will simply vanish. But if he doesn't try, he wouldn't be Sam Vimes. And so the battle is on. He knows how it's going to end; after all, he was there. His name is on one of those headstones. But that's just a minor detail . . .</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781435274785</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e1662077-bff9-4efd-b61c-84cee82dee21</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:09:12.095000+00:00" name="calibre:timestamp"/>
+        <meta content="Night Watch" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">314</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23bc3db8-9041-4d8b-8bcd-eac8e3a1e53a</dc:identifier>
+        <dc:title>Eric</dc:title>
+        <dc:creator opf:file-as="Pratchett, Terry" opf:role="aut">Terry Pratchett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-02-04T02:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Discworld's only demonology hacker, Eric, is about to make life very difficult for the rest of Ankh-Morpork's denizens. This would-be Faust is very bad...at his work, that is. All he wants is to fulfill three little wishes:to live forever, to be master of the universe, and to have a stylin' hot babe.But Eric isn't even good at getting his own way. Instead of a powerful demon, he conjures, well, Rincewind, a wizard whose incompetence is matched only by Eric's. And as if that wasn't bad enough, that lovable travel accessory the Luggage has arrived, too. Accompanied by his best friends, there's only one thing Eric wishes now -- that he'd never been born!</dc:description>
+        <dc:publisher>HarperTorch</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780380821211</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">c26a70db-86c1-46bf-a44f-66be2cbb94a2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy:Humour</dc:subject>
+        <meta content="{&quot;Terry Pratchett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-07-21T14:08:34.513000+00:00" name="calibre:timestamp"/>
+        <meta content="Eric" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
